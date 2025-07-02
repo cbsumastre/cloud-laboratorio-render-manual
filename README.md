@@ -2,10 +2,6 @@
 
 ## Modulo Cloud - Laboratorio
 
-### Básico
+### Opcional
 
-1. Desplegar en Github Pages de forma manual:
-
-   - Tenemos un repo en Github.
-   - Queremos desplegar una app.
-   - Realizar el despliegue manual.
+Desplegar la app en Render, usando despliegue manual.
