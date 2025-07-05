@@ -52,3 +52,6 @@ app.listen(PORT, () => {
 ![configuracion1](./snapshot/snapshot1.png)
 ![configuracion2](./snapshot/snapshot2.png)
 ![configuracion3](./snapshot/snapshot3.png)
+
+- Aplicación desplegada de forma manual en Render:
+  [https://cloud-laboratorio-render-manual-deploy.onrender.com](https://cloud-laboratorio-render-manual-deploy.onrender.com)
