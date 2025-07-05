@@ -5,3 +5,5 @@
 ### Opcional
 
 Desplegar la app en Render, usando despliegue manual.
+
+### Para poder desplegar manualmente en Render:
